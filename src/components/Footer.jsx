@@ -50,9 +50,13 @@ const Footer = () => {
                 NT Tech
               </h6>
               <p>
-                Here you can use rows and columns to organize your footer
-                content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                elit.
+                A NT Tech é uma empresa de desenvolvimento tecnológico focada em
+                criar soluções personalizadas e inovadoras. Oferecemos serviços
+                em aplicativos móveis, sistemas web e soluções corporativas,
+                sempre com o objetivo de transformar ideias em resultados
+                práticos. Nossa equipe qualificada trabalha lado a lado com
+                nossos clientes para garantir excelência e sucesso em cada
+                projeto.
               </p>
             </MDBCol>
 
