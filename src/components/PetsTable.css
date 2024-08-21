@@ -1,0 +1,32 @@
+.pets-table {
+  margin: 20px auto;
+  width: 90%;
+  max-width: 1200px;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.pets-table thead th {
+  background-color: #157347;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+}
+
+.pets-table tbody td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px;
+}
+
+.pets-table tbody tr:nth-child(odd) {
+  background-color: #f8f9fa;
+}
+
+.pets-table tbody tr:hover {
+  background-color: #e9ecef;
+}
+
+.pets-table, .pets-table th, .pets-table td {
+  border-radius: 0.5rem;
+}
