@@ -17,6 +17,12 @@ let pets = [
     Animal: "Tartaruga",
     Idade: "30",
   },
+  {
+    Nome: "Kita",
+    Especie: "Felino",
+    Animal: "Gato Fêmea",
+    Idade: "3",
+  },
 ];
 
 export default pets;

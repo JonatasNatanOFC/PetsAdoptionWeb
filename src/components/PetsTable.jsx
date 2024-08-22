@@ -21,7 +21,7 @@ const PetsTable = ({ pets = [] }) => {
               <td>{pet.Nome}</td>
               <td>{pet.Especie}</td>
               <td>{pet.Animal}</td>
-              <td>{pet.Idade}</td>
+              <td>{pet.Idade} Anos</td>
             </tr>
           );
         })}
